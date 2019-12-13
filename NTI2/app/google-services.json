@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "405773442361",
+    "firebase_url": "https://fahmy-nti.firebaseio.com",
+    "project_id": "fahmy-nti",
+    "storage_bucket": "fahmy-nti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405773442361:android:cafd9b7ffbef3a37f25ce8",
+        "android_client_info": {
+          "package_name": "com.example.nti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405773442361-54jsjq1d9goh8ec4f00qfj1piq9g7qgj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nti",
+            "certificate_hash": "1b7c3ca2c289eb41a6b7720c512ac4e9655a3954"
+          }
+        },
+        {
+          "client_id": "405773442361-5d29kak22u798ofvgmbbdianian2ihra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBafJL8c7EdADEGpWaq-hEnilZJsgfIhRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405773442361-5d29kak22u798ofvgmbbdianian2ihra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

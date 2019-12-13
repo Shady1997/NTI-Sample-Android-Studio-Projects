@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "72603827029",
+    "firebase_url": "https://shady-nti.firebaseio.com",
+    "project_id": "shady-nti",
+    "storage_bucket": "shady-nti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72603827029:android:19311e6a4a52f85a52cddc",
+        "android_client_info": {
+          "package_name": "com.shady191997.app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72603827029-n1pctqnto9p62jk34p7dnj03up1njjal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shady191997.app1",
+            "certificate_hash": "d0b5b1c8e4b9d060bdaa1714f54f0c18258f27e0"
+          }
+        },
+        {
+          "client_id": "72603827029-p0favtr7d1hbegvgsp5hkf3bdg378tch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ9deiGz8fvruc2BlNFovRRtLz1s0r-uY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72603827029-p0favtr7d1hbegvgsp5hkf3bdg378tch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

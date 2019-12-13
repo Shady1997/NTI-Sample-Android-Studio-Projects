@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "497799919486",
+    "firebase_url": "https://abdo-nti.firebaseio.com",
+    "project_id": "abdo-nti",
+    "storage_bucket": "abdo-nti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497799919486:android:04f7781b372d41e86da52f",
+        "android_client_info": {
+          "package_name": "com.example.nti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497799919486-iik9v8l8nckk4m906l0ebkugg8e6f1o5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nti",
+            "certificate_hash": "80279fbdba84191b515e5a7fe09bfd17f0a9e99f"
+          }
+        },
+        {
+          "client_id": "497799919486-nohh1o2s5p1mqb1m4n2d12eu4il77hdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9_-zP3eelu-yyqQOSHEKYpHY_qvl0yHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497799919486-nohh1o2s5p1mqb1m4n2d12eu4il77hdb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

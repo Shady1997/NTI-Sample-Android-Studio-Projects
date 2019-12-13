@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NTI</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="please_enter_your_password">Please Enter Your Password</string>
+    <string name="Go">Go</string>
+    <string name="hello">hello</string>
+    <string name="Name">Name</string>
+    <string name="Button">Go</string>
+    <string name="hello1">Hello</string>
+    <string name="welcome_msg">Welcome in our app</string>
+    <string name="help_msg">I can\'t help you</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Username">Username</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="signup">Sign up</string>
+</resources>

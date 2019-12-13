@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1094264583029",
+    "firebase_url": "https://nardin-nti.firebaseio.com",
+    "project_id": "nardin-nti",
+    "storage_bucket": "nardin-nti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094264583029:android:ffd710ca70a699f1ccd93c",
+        "android_client_info": {
+          "package_name": "com.example.nti2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094264583029-980tgvf2sbbfu8cv831asdbh71ae6nse.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nti2",
+            "certificate_hash": "510aa8d302f2499df912ae3b013a52024a6ef5e4"
+          }
+        },
+        {
+          "client_id": "1094264583029-du2e69ditqofjl6u2kte7pimtjc5i35b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkp9YeAg-pVI8swgY7hDFwVCyScKox0Wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094264583029-du2e69ditqofjl6u2kte7pimtjc5i35b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
